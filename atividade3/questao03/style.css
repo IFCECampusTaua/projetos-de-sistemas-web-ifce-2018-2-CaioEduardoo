@@ -1,0 +1,101 @@
+.tablee{
+
+			border: 1px solid #DDDDDD;
+    		border-collapse: collapse;
+    		font-family: arial;
+}
+.cor1ao3{
+			border-collapse: collapse;
+			width: 40px;
+			font-size: 18px;
+			text-align: center;
+			font-weight: bold;
+			color: #003366;
+			border-bottom: 1px solid #DDDDDD;
+}
+.cor4{
+			width: 40px;
+			font-size: 18px;
+			color: #1398BE;
+			text-align: center;
+			border-collapse: collapse;
+			font-weight: bold;
+			border-bottom: 2px solid #CCCCCC;
+}
+.cor5e6{
+			
+			font-size: 18px;
+			font-weight: bold;
+			color: #DE9800;
+			border-collapse: collapse;
+			border-bottom: 1px solid #DDDDDD;
+			width: 40px;
+			text-align: center;
+}
+.letras{
+			
+			font-size: 13px;
+			color: #999999;
+			font-weight: bold;
+			width: 40px;
+			text-align: center;
+			border-bottom: 1px solid #DDDDDD;
+			border-collapse: collapse;
+}
+.ntime{
+
+			font-size: 14px;
+			color: #666666;
+			width: 200px;
+			font-weight: bold;
+			border-collapse: collapse;
+			border-bottom: 1px solid #DDDDDD;
+			text-align: left;
+}
+.p{
+			width: 40px;
+			font-size: 14px;
+			color: black;
+			text-align: center;
+			background: #F7F7F7;
+			font-weight: bold;
+			border-collapse: collapse;
+			border-bottom: 1px solid #DDDDDD;
+
+}
+.je{
+			width: 40px;
+			font-size: 14px;
+			color: #666666;
+			text-align: center;
+			border-collapse: collapse;
+			border-bottom: 1px solid #DDDDDD;
+}
+.vd{
+			font-size: 14px;
+			color: #666666;
+			text-align: center;
+			background: #F7F7F7;
+			width: 40px;
+			border-collapse: collapse;
+			border-bottom: 1px solid #DDDDDD;
+}
+.por{
+
+			font-size: 14px;
+			color: #666666;
+			width: 50px;
+			text-align: center;
+			border-collapse: collapse;
+			border-bottom: 1px solid #DDDDDD;
+			background: #F7F7F7;
+}
+.n4{
+			border-bottom: 2px solid #DDDDDD;
+			font-size: 14px;
+			color: #666666;
+			width: 200px;
+			font-weight: bold;
+			border-collapse: collapse;
+			text-align: left;
+}
