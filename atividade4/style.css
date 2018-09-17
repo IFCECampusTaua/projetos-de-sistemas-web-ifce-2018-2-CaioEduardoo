@@ -1,0 +1,77 @@
+.laranja{
+ background-color: #FF4500;
+    float: left;
+    width: 25%;
+    height: 40%;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+
+}
+.DarkOrange{
+
+	background-color:#FF8C00;
+    float: right;
+    width: 75%;
+    height: 80%;
+    margin-left: 25%;
+    top: 0px;
+    left:0px;
+    position: absolute;
+}
+.azul{
+background-color: #00BFFF;
+    width: 25%;
+    height: 60%;
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+}
+.DarkBlue{
+	background-color: #00008B;
+    width: 55%;
+    height: 20%;
+    margin-left: 25%;
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+}
+.verde{
+	background-color: #00ff00;
+    width: 20%;
+    height: 20%;
+    bottom: 0px;
+    left: 0px;
+    margin-left: 80%;
+    position: absolute;
+}
+.branca{
+	background-color: #ffffff;
+    position: absolute;/*caixa de texto em banco */
+    width: 20%;
+    height: 40%;
+    bottom: 30%;
+    right: 10%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #000000;
+}
+.marcaazul{
+	background-color: #00bfff;
+    width: 100%;
+    height: 40px;/*posição da marcação azul envolta do nome texto*/
+    border-radius: 10px;
+    position: absolute;
+}
+.text{
+    color: #ffffff;
+    margin-left: 3%;
+    font-family: arial;/*fonte das div's "grandes"*/
+    font-size: 30px;
+}
+.t2{
+	font-family: arial;
+    margin-left: 5%;
+    margin-top: 10px;/*fonte da caixa dentro da div laranja*/
+    font-size: 20px;
+    color: #800000
+}
