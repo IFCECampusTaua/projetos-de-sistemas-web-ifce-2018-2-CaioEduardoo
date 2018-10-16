@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>Questão 09</title>
+	<style type="text/css">
+	#letras{
+		font-style: arial;
+	}
+	</style>
+</head>
+<body>
+<div id="letras">
+<img src="tabajara.jpg">
+<br>
+<p>Informe o salário atual:
+<input type="text" id="caixatx">
+<button id="btn">Reajustar</button></p>
+<div id="Informe">
+<p>Salario antes do reajuste: <span id="salario01"></span></p>
+<p>Percentual de aumentocaplicado:<span id="percent"></span></p>
+<p>Valor do aumento:<span id="aumento"></span></p>
+<p>Novo salário, após o aumento:<span id="nsalario"></span></p>
+
+</div>
+</div>
+<script type="text/javascript">
+	var btn = document.getElementById("btn");
+	btn.addeventListener("click",function(){
+		var salario = document.getElementById("caixatx").value;
+		alet("salario");
+	});
+
+</script>
+</body>
+</html>
